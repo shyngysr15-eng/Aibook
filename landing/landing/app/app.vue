@@ -5,7 +5,12 @@
 </template>
 
 <script setup lang="ts">
+import { inject } from '@vercel/analytics'
 
+// Only inject in the browser environment
+if (import.meta.client) {
+  inject()
+}
 </script>
 
 <style>
