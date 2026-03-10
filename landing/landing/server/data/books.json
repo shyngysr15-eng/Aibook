@@ -1,0 +1,156 @@
+[
+    {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Classic Literature",
+        "description": "A story of wealth, love, and the American Dream in the Roaring Twenties."
+    },
+    {
+        "name": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian Fiction",
+        "description": "A chilling prophecy about the future of surveillance and totalitarianism."
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Southern Gothic",
+        "description": "A powerful tale of racial injustice and the loss of innocence in the American South."
+    },
+    {
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "genre": "Fantasy",
+        "description": "A hobbit's unexpected journey through Middle-earth to reclaim a treasure guarded by a dragon."
+    },
+    {
+        "name": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "year": 1967,
+        "genre": "Magical Realism",
+        "description": "The multi-generational story of the Buendía family in the fictional town of Macondo."
+    },
+    {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Romance",
+        "description": "A sparkling comedy of manners centered on Elizabeth Bennet and Mr. Darcy."
+    },
+    {
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "genre": "Realistic Fiction",
+        "description": "Holden Caulfield's angst-filled journey through New York City after being expelled from prep school."
+    },
+    {
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "genre": "Science Fiction",
+        "description": "A vision of a futuristic society driven by genetically modified citizens and social hierarchy."
+    },
+    {
+        "name": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1888,
+        "genre": "Quest / Adventure",
+        "description": "A shepherd boy's journey to find treasure in the Egyptian pyramids and discovering himself along the way."
+    },
+    {
+        "name": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": 1866,
+        "genre": "Philosophical Fiction",
+        "description": "A psychological exploration of the mental anguish and moral dilemmas of a former student who commits a crime."
+    },
+    {
+        "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "author": "C.S. Lewis",
+        "year": 1950,
+        "genre": "Children's Fantasy",
+        "description": "Four children step through a wardrobe into a magical land called Narnia."
+    },
+    {
+        "name": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "genre": "Dystopian",
+        "description": "A future society where books are banned and 'firemen' burn any that are found."
+    },
+    {
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "genre": "Adventure Fiction",
+        "description": "The obsessive quest of Captain Ahab for revenge on Moby Dick, the giant white whale."
+    },
+    {
+        "name": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": 1890,
+        "genre": "Philosophical Fiction",
+        "description": "A young man sells his soul so that his portrait ages while he remains eternally young."
+    },
+    {
+        "name": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "year": 1985,
+        "genre": "Dystopian",
+        "description": "A woman's struggle for survival and identity in a near-future totalitarian state."
+    },
+    {
+        "name": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "year": 1880,
+        "genre": "Philosophical Drama",
+        "description": "A complex story centered on a murder case and deep philosophical debates about God, free will, and morality."
+    },
+    {
+        "name": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": 1847,
+        "genre": "Gothic Romance",
+        "description": "The life experiences of the titular character, including her growth and her love for Mr. Rochester."
+    },
+    {
+        "name": "Frankenstein",
+        "author": "Mary Shelley",
+        "year": 1818,
+        "genre": "Science Fiction / Gothic",
+        "description": "A scientist creates a sentient creature in an unorthodox scientific experiment."
+    },
+    {
+        "name": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943,
+        "genre": "Fable",
+        "description": "A pilot stranded in the desert meets a young prince who fell to Earth from a tiny asteroid."
+    },
+    {
+        "name": "Life of Pi",
+        "author": "Yann Martel",
+        "year": 2001,
+        "genre": "Adventure Fiction",
+        "description": "A young boy survives a shipwreck and shares a lifeboat with a Bengal tiger named Richard Parker."
+    },
+    {
+        "name": "Animal Farm",
+        "author": "George Orwell",
+        "year": 1945,
+        "genre": "Political Satire",
+        "description": "A satirical allegorical novella that reflects events leading up to the Russian Revolution of 1917."
+    },
+    {
+        "name": "Down and Out in Paris and London",
+        "author": "George Orwell",
+        "year": 1933,
+        "genre": "Memoir / Social Criticism",
+        "description": "A memoir in two parts on the theme of poverty in the two cities, reflecting Orwell's own experiences."
+    }
+]
