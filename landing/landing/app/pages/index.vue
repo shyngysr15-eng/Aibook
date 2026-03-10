@@ -56,7 +56,7 @@ const handleSearch = async () => {
   searched.value = true;
   
   try {
-    const response = await fetch(`http://localhost:3001/api/search?q=${encodeURIComponent(query.value)}`);
+    const response = await fetch(`/api/search?q=${encodeURIComponent(query.value)}`);
     results.value = await response.json();
   } catch (error) {
     console.error('Search failed:', error);
